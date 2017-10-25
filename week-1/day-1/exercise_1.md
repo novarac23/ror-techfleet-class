@@ -7,11 +7,10 @@ Sample input:
 `ruby 5_times.rb`
 
 
-Sample outpute:
+Sample output:
 
 `I love Ruby`
 `I love Ruby`
 `I love Ruby`
 `I love Ruby`
 `I love Ruby`
-

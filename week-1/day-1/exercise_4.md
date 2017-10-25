@@ -6,4 +6,6 @@ Sample input:
 `Please enter your first name:`
 `Please enter your last name:`
 
+Sample output:
+
 `Hi there #{first_name} #{last_name}! Thanks for signing up with us!`
