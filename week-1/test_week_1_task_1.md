@@ -22,7 +22,7 @@ Find scenario:
 
 Remove scenario:
 
-`Enter first and last name of the user: `
+`Enter first and last name of the user: John Doe`
 
 Every single time an action is ended prompt user again with:
 

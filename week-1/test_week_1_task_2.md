@@ -2,7 +2,7 @@
 
 Given a phrase, count the occurrences of each word in that phrase.
 
-Sample Inpute:
+Sample Input:
 
 "olly olly in come free"
 
