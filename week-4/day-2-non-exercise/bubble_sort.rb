@@ -19,7 +19,7 @@ class BubbleSort
       end
       skip += 1
     end
-    puts list
+    p list
   end
 end
 
