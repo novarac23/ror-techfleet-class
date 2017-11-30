@@ -1,0 +1,10 @@
+TeamName Won Lost Draw
+
+Lakers 3 4 1
+Kings 8 5 1
+Cavaliers 9 3 1
+Blazers 1 1 1
+Timberwolvs 3 4 1
+Nets 2 2 2
+Heat 4 5 6
+Nuggets 4 4 4

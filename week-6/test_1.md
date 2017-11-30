@@ -14,3 +14,5 @@ The team is considered to be have a best chance to win the league if they:
 * Did not lost more then five games
 * Did not draw more then 2 games
 * Won over 8 games
+
+Also display the worst team that has the lowest score
