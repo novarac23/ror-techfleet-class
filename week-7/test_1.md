@@ -7,7 +7,7 @@ A rental should have:
 * name of the agency
 * price
 
-You could also post comments as user on a rental.
+You could also post comments on a rental.
 
 A comment should have:
 
